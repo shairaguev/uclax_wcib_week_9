@@ -207,14 +207,14 @@ font-weight: 700;
 }
 
 
-@media (min-width: 576px){
+
 .first-box {
     background-color: #ffffff;
     border-radius: 5px;
     padding-top: 35px;
     padding-bottom: 45px;
     color:#242526;
-}}
+}
 
 .withpadding {
   padding-top: 30px;
@@ -227,8 +227,6 @@ font-weight: 700;
   font-size: 12px;
   font-weight: 700;
 }
-
-
 
 .second-box {
     border-radius: 5px;
@@ -342,6 +340,7 @@ background-size: cover;
     box-shadow: 10px 5px 8px #222222;
     letter-spacing: 1px;
     margin-left: -20px;
+
 }
 
 
@@ -389,9 +388,30 @@ padding-bottom: 25px;
 
 .email{
   color: white;
+  padding-left: 12px;
 }
 
-.nav-link-active:hover{
-  border-bottom-color: #ffffff;
 
+
+
+.second{
+  text-align: center;
 }
+
+::placeholder {
+  color: white; }
+
+.logowhite{
+    margin-left: 1rem;
+  }
+
+  .nav-link:hover {
+      border-bottom: 3px solid white;
+  }
+
+  a:hover {
+    color: white;
+  }
+  .new-button {
+      margin-top: 97px;
+  }

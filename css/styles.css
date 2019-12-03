@@ -173,13 +173,12 @@ a {
   padding-bottom: 82px;
   padding-top: 40px; }
 
-@media (min-width: 576px) {
-  .first-box {
-    background-color: #ffffff;
-    border-radius: 5px;
-    padding-top: 35px;
-    padding-bottom: 45px;
-    color: #242526; } }
+.first-box {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding-top: 35px;
+  padding-bottom: 45px;
+  color: #242526; }
 
 .withpadding {
   padding-top: 30px;
@@ -324,7 +323,23 @@ a {
   height: auto; }
 
 .email {
+  color: white;
+  padding-left: 12px; }
+
+.second {
+  text-align: center; }
+
+::placeholder {
   color: white; }
 
-.nav-link-active:hover {
-  border-bottom-color: #ffffff; }
+.logowhite {
+  margin-left: 1rem; }
+
+.nav-link:hover {
+  border-bottom: 3px solid white; }
+
+a:hover {
+  color: white; }
+
+.new-button {
+  margin-top: 97px; }
