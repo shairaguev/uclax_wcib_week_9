@@ -23,58 +23,12 @@ font-family: 'Poppins', sans-serif;
   color:  #f8e5e5;
 }
 
-.my-name h1{
-  font-family: 'miller-banner', serif;
-  font-weight: 700;
-  font-style: normal;
-  font-size: 50px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 115px;
-}
 
-.iam h3 {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 300;
-  font-size: 20px;
-  margin-left: auto;
-  margin-right: auto;
-
-}
-
-.ui{
-  font-weight: 300;
-  font-size: 80px;
-}
 
 a {
     color: #f8e5e5;
     text-decoration: none;
     background-color: transparent;
-}
-
-.verticalline {
-  height:95px;
-  background-color:#f8e5e5;
-  width: 2px;
-  margin-left: auto;
-margin-right: auto;
-margin-top: 32px;
-margin-bottom: 32px;
-
-}
-
-.meet h2 {
-  font-family: miller-banner, serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 40px;
-  text-align: center;
-  margin-left: auto;
-margin-right: auto;
-margin-bottom: 110px;
-
-
 }
 
 
@@ -113,22 +67,6 @@ a:hover {
     text-decoration: none;
 }
 
- .iam h3 {
-    font-family: 'Poppins', sans-serif;
-    font-weight: 300;
-    font-size: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-}
-
-.make p {
-  font-weight: 600;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    font-size: 14px;
-}
-
 .social {
 
   padding-top: 15px;
@@ -137,6 +75,11 @@ a:hover {
 
 .linkedinicon a {
   margin-right: 15px;
+}
+
+.first {
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 }
