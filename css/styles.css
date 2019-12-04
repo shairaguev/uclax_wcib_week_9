@@ -1,51 +1,6 @@
 body {
-  font-family: 'Poppins', sans-serif;
-  background-color: #242526; }
-  body .darkbg {
-    background-color: #242526;
-    margin-top: 70px; }
-  body .homepage {
-    color: #f8e5e5;
-    font-weight: 600;
-    font-size: 16px; }
-  body .nav {
-    color: #f8e5e5;
-    font-weight: 700;
-    font-size: 16px; }
-  body .maincontents {
-    color: #f8e5e5; }
-  body a {
-    color: #f8e5e5;
-    text-decoration: none;
-    background-color: transparent; }
-  body .footer {
-    background-color: #f8e5e5;
-    height: 60px;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%; }
-  body a {
-    color: #FA255E;
-    text-decoration: none;
-    background-color: transparent; }
-  body a:hover {
-    color: #242526;
-    text-decoration: underline; }
-  body .nav-link:hover {
-    text-decoration: none;
-    color: #F8E5E5; }
-  body a:hover {
-    color: #fa255e;
-    text-decoration: none; }
-  body .emailme a:hover {
-    color: #242526;
-    text-decoration: none; }
-  body .social {
-    padding-top: 15px;
-    padding-bottom: 20px; }
-  body .linkedinicon a {
-    margin-right: 15px; }
-  body .first {
-    padding-top: 15px;
-    padding-bottom: 15px; }
+  font-family: sans-serif;
+  background-color: #242526;
+  color: white;
+  text-align: center;
+  margin: auto; }

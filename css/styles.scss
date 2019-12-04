@@ -1,85 +1,8 @@
 body {
-font-family: 'Poppins', sans-serif;
+font-family: sans-serif;
   background-color: #242526;
-
-.darkbg {
-  background-color: #242526;
-  margin-top: 70px;
-}
-
-.homepage {
-  color: #f8e5e5;
-  font-weight: 600;
-  font-size: 16px;
-}
-
-.nav {
-  color: #f8e5e5;
-  font-weight: 700;
-  font-size: 16px;
-}
-
-.maincontents {
-  color:  #f8e5e5;
-}
-
-
-
-a {
-    color: #f8e5e5;
-    text-decoration: none;
-    background-color: transparent;
-}
-
-
-.footer {
-  background-color: #f8e5e5;
-  height: 60px;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-}
-
-a {
-    color: #FA255E;
-    text-decoration: none;
-    background-color: transparent;
-}
-
-a:hover {
-    color: #242526;
-    text-decoration: underline;
-}
-
-.nav-link:hover {
-    text-decoration: none;
-    color: #F8E5E5;
-}
-
-a:hover {
-    color: #fa255e;
-    text-decoration: none;
-}
-
-.emailme a:hover {
-    color: #242526;
-    text-decoration: none;
-}
-
-.social {
-
-  padding-top: 15px;
-  padding-bottom: 20px;
-}
-
-.linkedinicon a {
-  margin-right: 15px;
-}
-
-.first {
-  padding-top: 15px;
-  padding-bottom: 15px;
-}
+  color:white;
+  text-align: center;
+  margin: auto;
 
 }
